@@ -2,6 +2,7 @@ package com.manishtraders.main;
 
 import com.manishtraders.transformer.ExcelExtraction;
 import lombok.AllArgsConstructor;
+import org.apache.tomcat.util.http.fileupload.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.InputStreamResource;
 import org.springframework.core.io.Resource;
@@ -12,7 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpServletResponse;
+import javax.swing.filechooser.FileNameExtensionFilter;
 import java.io.*;
+import java.util.Arrays;
 
 @RestController
 @AllArgsConstructor
@@ -60,15 +63,30 @@ public class CalculatorController {
 
     @GetMapping("/download/{filename}")
     public ResponseEntity<Resource> downloadExcel(@PathVariable("filename") String filename, HttpServletResponse response) throws FileNotFoundException {
-        File file = new File(".");
-        String path = file.getAbsolutePath();
-        String location = path.substring(0, path.length() - 1) + filename + ".xlsx";
+        String location = getCurrentDirectory()+  filename + ".xlsx";;
         File file1 = new File(location);
 
         InputStream inputStream = new FileInputStream(file1);
         InputStreamResource inputStreamResource = new InputStreamResource(inputStream);
-        return ResponseEntity.ok().header(HttpHeaders.CONTENT_DISPOSITION, "attachment:filename=" + filename + ".xlsx")
+        return ResponseEntity.ok().header(HttpHeaders.CONTENT_DISPOSITION, "attachment:filename;" + filename + ".xlsx")
                 .contentType(MediaType.parseMediaType("application/vnd.ms-excel"))
                 .body(inputStreamResource);
+    }
+
+    @GetMapping("/delete")
+    public ResponseEntity<String> delete() throws IOException {
+        File parentDir = new File(getCurrentDirectory());
+        File[] files = parentDir.listFiles((dir, name) -> name.endsWith(".xlsx"));
+
+        for (File file : Arrays.asList(files)) {
+            FileUtils.forceDelete(file);
+        }
+        return ResponseEntity.ok().body("Deleted File successfully");
+    }
+
+    private String getCurrentDirectory() {
+        File file = new File(".");
+        String path = file.getAbsolutePath();
+        return path.substring(0, path.length() - 1);
     }
 }
