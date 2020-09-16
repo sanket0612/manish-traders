@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Manish Traders</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p th:text="'Hello, ' + ${name} + '!'" />
+</body>
+
+<div class="container importuser">
+    <div class="form-group">
+        <form method="POST" th:action="@{/import}" enctype="multipart/form-data">
+            <input type="file" name="file"/></br></br>
+            <button type="submit" class="btn btn-primary btn-lg" value="Import">Import
+            </button>
+        </form>
+    </div>
+</div>
+
+
+</html>

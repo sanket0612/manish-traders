@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chanki" target="11" />
+      <module name="chanki" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
