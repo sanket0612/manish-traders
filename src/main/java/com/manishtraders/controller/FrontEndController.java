@@ -15,6 +15,21 @@ public class FrontEndController {
         return "greeting";
     }
 
+    @GetMapping("/")
+    public String welcome(){
+        return "home";
+    }
+
+    @GetMapping("/home")
+    public String welcomeHome(){
+        return "home";
+    }
+
+    @GetMapping("/login")
+    public String login(){
+        return "login";
+    }
+
     @GetMapping("/hello")
     @ResponseBody
     public String sayHello() {
