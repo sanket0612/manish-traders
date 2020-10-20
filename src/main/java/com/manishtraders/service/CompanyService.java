@@ -18,7 +18,8 @@ public class CompanyService {
   public String extractAndSaveCompanies(List<CompanyOnDisk> companyOnDisk) {
     List<Company> companyList = companyOnDisk
         .stream()
-        .map(this::buildCompany).collect(Collectors.toList());
+        .map(this::buildCompany)
+        .collect(Collectors.toList());
     companyRepository.deleteAll();
     companyRepository.saveAll(companyList);
     return "Success";
@@ -36,5 +37,10 @@ public class CompanyService {
 
   public List<Company> getAllCompanies() {
     return companyRepository.findAll();
+  }
+
+  public String deleteAllCompanies() {
+     companyRepository.deleteAll();
+     return  "Successfully deleted All companies";
   }
 }

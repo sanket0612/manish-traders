@@ -16,4 +16,12 @@ public class Collection {
   @JacksonXmlProperty(localName = "COMPANYONDISK")
   @JacksonXmlElementWrapper(useWrapping=false)
   private List<CompanyOnDisk> CompanyOnDisk;
+
+  @JacksonXmlProperty(localName = "LEDGER")
+  @JacksonXmlElementWrapper(useWrapping=false)
+  private List<Ledger> ledgerList;
+
+  @JacksonXmlProperty(localName = "STOCKITEM")
+  @JacksonXmlElementWrapper(useWrapping=false)
+  private List<StockItem> stockItemList;
 }

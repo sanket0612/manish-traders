@@ -20,15 +20,19 @@ public class Order {
     @NonNull
     private String partyName;
 
-    private String product;
+    private String item;
 
     private String quantity;
+
+    private String sortBy;
 
     private String rate;
 
     private String comments;
 
     private String date;
+
+    private String createdBy;
 
     @ManyToOne(cascade=CascadeType.PERSIST)
     private User user;
