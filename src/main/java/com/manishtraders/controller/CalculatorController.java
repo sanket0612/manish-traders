@@ -10,6 +10,7 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestTemplate;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpServletResponse;
@@ -84,9 +85,18 @@ public class CalculatorController {
         return ResponseEntity.ok().body("Deleted File successfully");
     }
 
+    @GetMapping("/tally")
+    public ResponseEntity<?> syncTally(){
+        RestTemplate restTemplate = new RestTemplate();
+        String url = "http://localhost:9000/";
+        ResponseEntity<String> response = restTemplate.getForEntity(url, String.class);
+        return ResponseEntity.ok().body(response);
+    }
+
     private String getCurrentDirectory() {
         File file = new File(".");
         String path = file.getAbsolutePath();
         return path.substring(0, path.length() - 1);
     }
+
 }

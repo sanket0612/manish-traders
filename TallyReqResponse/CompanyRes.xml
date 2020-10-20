@@ -1,0 +1,81 @@
+<ENVELOPE>
+    <HEADER>
+        <VERSION>1</VERSION>
+        <STATUS>1</STATUS>
+    </HEADER>
+    <BODY>
+        <DESC>
+            <CMPINFO>
+                <COMPANY>0</COMPANY>
+                <GROUP>0</GROUP>
+                <LEDGER>0</LEDGER>
+                <COSTCATEGORY>0</COSTCATEGORY>
+                <COSTCENTRE>0</COSTCENTRE>
+                <GODOWN>0</GODOWN>
+                <STOCKGROUP>0</STOCKGROUP>
+                <STOCKCATEGORY>0</STOCKCATEGORY>
+                <STOCKITEM>0</STOCKITEM>
+                <VOUCHERTYPE>0</VOUCHERTYPE>
+                <CURRENCY>0</CURRENCY>
+                <UNIT>0</UNIT>
+                <BUDGET>0</BUDGET>
+                <CLIENTRULE>0</CLIENTRULE>
+                <SERVERRULE>0</SERVERRULE>
+                <STATE>0</STATE>
+                <TDSRATE>0</TDSRATE>
+                <TAXCLASSIFICATION>0</TAXCLASSIFICATION>
+                <STCATEGORY>0</STCATEGORY>
+                <DEDUCTEETYPE>0</DEDUCTEETYPE>
+                <ATTENDANCETYPE>0</ATTENDANCETYPE>
+                <FBTCATEGORY>0</FBTCATEGORY>
+                <FBTASSESSEETYPE>0</FBTASSESSEETYPE>
+                <TARIFFCLASSIFICATION>0</TARIFFCLASSIFICATION>
+                <EXCISEDUTYCLASSIFICATION>0</EXCISEDUTYCLASSIFICATION>
+                <SERIALNUMBER>0</SERIALNUMBER>
+                <ADJUSTMENTCLASSIFICATION>0</ADJUSTMENTCLASSIFICATION>
+                <INCOMETAXSLAB>0</INCOMETAXSLAB>
+                <INCOMETAXCLASSIFICATION>0</INCOMETAXCLASSIFICATION>
+                <LBTCLASSIFICATION>0</LBTCLASSIFICATION>
+                <TAXUNIT>0</TAXUNIT>
+                <RETURNMASTER>0</RETURNMASTER>
+                <VOUCHER>0</VOUCHER>
+            </CMPINFO>
+        </DESC>
+        <DATA>
+            <COLLECTION>
+                <COMPANYONDISK>
+                    <ENDINGAT TYPE="Date">20200331</ENDINGAT>
+                    <STARTINGFROM TYPE="Date">20190401</STARTINGFROM>
+                    <NAME TYPE="String">Shri Enterprises Ahirkheda 19-20</NAME>
+                    <TALLYKEY TYPE="Logical">No</TALLYKEY>
+                    <ISAGGREGATE TYPE="Logical">No</ISAGGREGATE>
+                    <COMPANYNUMBER TYPE="Number"> 671</COMPANYNUMBER>
+                </COMPANYONDISK>
+                <COMPANYONDISK>
+                    <ENDINGAT TYPE="Date">20210331</ENDINGAT>
+                    <STARTINGFROM TYPE="Date">20200401</STARTINGFROM>
+                    <NAME TYPE="String">Shri Enterprises Ahirkheda 20-21</NAME>
+                    <TALLYKEY TYPE="Logical">No</TALLYKEY>
+                    <ISAGGREGATE TYPE="Logical">No</ISAGGREGATE>
+                    <COMPANYNUMBER TYPE="Number"> 672</COMPANYNUMBER>
+                </COMPANYONDISK>
+                <COMPANYONDISK>
+                    <ENDINGAT TYPE="Date">20200331</ENDINGAT>
+                    <STARTINGFROM TYPE="Date">20190401</STARTINGFROM>
+                    <NAME TYPE="String">Manish Traders Ahirkheda 2019-20</NAME>
+                    <TALLYKEY TYPE="Logical">No</TALLYKEY>
+                    <ISAGGREGATE TYPE="Logical">No</ISAGGREGATE>
+                    <COMPANYNUMBER TYPE="Number"> 10001</COMPANYNUMBER>
+                </COMPANYONDISK>
+                <COMPANYONDISK>
+                    <ENDINGAT TYPE="Date">20210331</ENDINGAT>
+                    <STARTINGFROM TYPE="Date">20200401</STARTINGFROM>
+                    <NAME TYPE="String">Manish Traders Ahirkheda 2020-21</NAME>
+                    <TALLYKEY TYPE="Logical">No</TALLYKEY>
+                    <ISAGGREGATE TYPE="Logical">No</ISAGGREGATE>
+                    <COMPANYNUMBER TYPE="Number"> 10002</COMPANYNUMBER>
+                </COMPANYONDISK>
+            </COLLECTION>
+        </DATA>
+    </BODY>
+</ENVELOPE>

@@ -1,0 +1,1885 @@
+<ENVELOPE>
+    <HEADER>
+        <VERSION>1</VERSION>
+        <STATUS>1</STATUS>
+    </HEADER>
+    <BODY>
+        <DESC>
+            <CMPINFO>
+                <COMPANY>0</COMPANY>
+                <GROUP>0</GROUP>
+                <LEDGER>0</LEDGER>
+                <COSTCATEGORY>0</COSTCATEGORY>
+                <COSTCENTRE>0</COSTCENTRE>
+                <GODOWN>0</GODOWN>
+                <STOCKGROUP>0</STOCKGROUP>
+                <STOCKCATEGORY>0</STOCKCATEGORY>
+                <STOCKITEM>0</STOCKITEM>
+                <VOUCHERTYPE>0</VOUCHERTYPE>
+                <CURRENCY>0</CURRENCY>
+                <UNIT>0</UNIT>
+                <BUDGET>0</BUDGET>
+                <CLIENTRULE>0</CLIENTRULE>
+                <SERVERRULE>0</SERVERRULE>
+                <STATE>0</STATE>
+                <TDSRATE>0</TDSRATE>
+                <TAXCLASSIFICATION>0</TAXCLASSIFICATION>
+                <STCATEGORY>0</STCATEGORY>
+                <DEDUCTEETYPE>0</DEDUCTEETYPE>
+                <ATTENDANCETYPE>0</ATTENDANCETYPE>
+                <FBTCATEGORY>0</FBTCATEGORY>
+                <FBTASSESSEETYPE>0</FBTASSESSEETYPE>
+                <TARIFFCLASSIFICATION>0</TARIFFCLASSIFICATION>
+                <EXCISEDUTYCLASSIFICATION>0</EXCISEDUTYCLASSIFICATION>
+                <SERIALNUMBER>0</SERIALNUMBER>
+                <ADJUSTMENTCLASSIFICATION>0</ADJUSTMENTCLASSIFICATION>
+                <INCOMETAXSLAB>0</INCOMETAXSLAB>
+                <INCOMETAXCLASSIFICATION>0</INCOMETAXCLASSIFICATION>
+                <LBTCLASSIFICATION>0</LBTCLASSIFICATION>
+                <TAXUNIT>0</TAXUNIT>
+                <RETURNMASTER>0</RETURNMASTER>
+                <VOUCHER>0</VOUCHER>
+            </CMPINFO>
+        </DESC>
+        <DATA>
+            <COLLECTION ISMSTDEPTYPE="Yes" MSTDEPTYPE="8">
+                <LEDGER NAME="0000" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="0Cash" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="11111111" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="3808 18%" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="5% Purchase Goods" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aadrsh Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aanad Ksk Barud (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="AANADRAM AVLAYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aanand Agro Agency Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aanand Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aanchal Agritech Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aarti Ksk Uoon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aasharam Dayaram Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aatharva Enterprises Un" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aathrva Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aayush Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Abhieshk Tare Ji (Crystal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="AC" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Accurate Crop Care Pvt. Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Adama India P LTD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Adarsh Ksk Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aditya Sing (Crystal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aditya Tredars Kohdad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Advertisment Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Adv Income Tax" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Advocat Fees" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ag Income" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ag. Land Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ag. Land Jamnya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ag. Land Piplaikhurda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agrasen Ksk Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="AGRAWAL KSK DHULE" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agricol Crop Sciences Pvt. Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agristar Genetics P Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agro Service Center" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agstack Technologics Ltd. (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Agstack Technologics Pvt. Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aidu Laxman G. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aijaj Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajay Bhai Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="AJAY BHAI RODIYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajay Santosh Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajaysing Chouhan Mahmmadpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajay Solanki" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajay Yadav Machhalgoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajeet Bhai Gogawa (Pan Dukan)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ajmera Ksk Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Akansha Agro Agency Chhipawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Akash Traders Segaonwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Akhilesh Ksk Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Akhilesh Ksk Andad (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="A.K.P. Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Alpgiri Seeds Sciences Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aman Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aman Traders Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Amarsing Badole Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Amarsing Nayak Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambaram Aidu G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambaram Laxman P.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Agro Agency Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Ksk Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Ksk Dalka" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika KSK. Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Ksk Nandgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Traders Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Traders Karahi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambika Traders Karahi (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ambrocia Seed Producer Com. Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anand Biotech Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anandram Dipa N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anandram Jogilala  Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anant Agro Dayalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anant Ksk Barud Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="ANANT KSK KOTHA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anant Traders Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anarsing Ji N Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anil Agency Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anil Enterprises Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="ANIL KAILASH" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anil Mishra Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anil Patidar Syngenta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anil Santosh Y. Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="ANIL VERMA KHARGONE" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anjali Agro Agency Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anjali Ksk Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anjali Traders Dhakalgaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ankit Patidar Rampura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anokhilal Zlotra Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Anop Jawariya Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ansul Seeds Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arihant Sales Corporation" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arnl Enterprises Ratlam" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="ARTIKA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arun Bhai Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arun Krishi Beej Bhandar Dharampuri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arvind Bhai Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arvind Dinesh Shah Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arvind Ksk Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Arvind Mina Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashish K S K Sundrel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashish Machinery Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Bhagwan Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok &amp; Brothers Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Brothers Katkut" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Chhagan Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Dhangar Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Didar N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="ASHOK PATIDAR GHOTIA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Tradrs Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ashok Yadav Rodiya (Segaona)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Aspire Agri India P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Atlas Agritech P.L.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Atode Ji Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Audit Fees" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Audit Fees (Pro.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Avantika Enterprises Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Avantika Ent.Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Avasha Maintenance" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Axis Agro Chemicals Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Axis Bank C 914020010143140" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Axis Bank Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bablu Yadav Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Babulal Mukund Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Babulal Natthu Ji Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Badalsing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bad Dats" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Badri Bhai Motiram Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Badri Hirdaram Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Badri Puniya  G. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bagsing Ji Chouhan Coromandel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bakliwal Agro Ag.P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bakliwal Agro Ag. P.L. Indore (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Agro Agency Thibgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Agro Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Enterprises Khalghat" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Ksk Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Ksk Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Seeds &amp; Pesticide Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Traders Borawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Traders Dhakalgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balaji Traders Semalda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balakramji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Baliram BHAI Bagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Baliram Punanand B. Khudgaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Baliram Vechla Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balkrishna Bhawsar (Crystal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balmukund Bhai (Sai Hardware Bediya)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balram Agritech Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balram Ksk Semalda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Balu Fattu H Akhirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="BALWAN RAJPOOT GOGAWA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bandhu Prem Agency Burahanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bank Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Banshilal Chetram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bansing Nansing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bapna Seeds Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bapu Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Barfa Ksk Borud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhagwan Bhika N.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhagwan Nihala Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhagwan Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhagwati Machinery S.Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhaiyalal Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhalaji Bhukkan G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhandari Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhandari Ksk Khargone(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhanu Bhai Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Crop Science Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Hiralal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Krishi H.V.K.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Krishi Kendra Burhanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Ksk Ghughriyakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Kumar Mangilal M Dharampuri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bharat Machinery S Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhatia Ksk Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhawna Brajesh Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhawsar Ji (Crystal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhilu Mangtuji Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bholaram Motiram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhumi Agro Enterprises Ratanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhumika Traders Madleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhumika Traders Multhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhupendra Yadav (Crystal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhupendra Yadav Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhurelal Darbarji Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhuwaniram Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhuwaniram Punaji D.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhuwaniram Sitaram Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhuwaniram Udasi Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bhuwansing Magan Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bihari Gobriya N Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bike Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Biore Seeds Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Birla Ksk Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Birla Ksk Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Biz Analyst Mobile App" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Bordiya Ksk Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Boss Agro Chemicals" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Brajesh Bhuwaniram D Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Braj Fertilizer Balakwada" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Budhan Hirmal Ghoghnath" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Budiya Bau Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Burhani Hardware Dhulkot" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Burhani Syndicat Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Burhani Traders Barud Fatta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Car Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Car Mahindra Xuv" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Car XUV" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Cash Discount" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Cbm Agrisciences India P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="C C Tv Cemera" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="CGST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="CGST(Return)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chamariya Dagdiya Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chambal Ferti.Chami.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Champion Agro Ltd Rajkot" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chandan Babulal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chandarsing Solanki Bagkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chandmal Surajmal Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chandmal Surajmal Sanawad (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chawla Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chayan Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Check Bouns of Charge" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chem India Agroscience Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Cheminova India Ltd Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chensing Ji Natthu Kalbh." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetan Devram P.Chandi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetan Kukmar &amp; Company Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetram Hiralal G Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetram Ji Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetram Kalu N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetram Punaji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chetram Tukaram D.Ahir" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chhatarsing Ji Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chhitriya Remla Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chhogala Dulichand Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chhogalal Punamchand D.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chhogriya Duliya Y. Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chopada Traders Nandra" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Choudhry Krashi Upchar Kendra Pitnagar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Chouhan Ksk Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Collage Fees" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Computer" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Computer Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Coromandel International Ltd(1001)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Coromandel International Ltd(1012)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Coromandel Int.Ltd(1002)P." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Coromandel Int.Ltd(1003)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Coupen" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Crop Care India" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Crop Care Nutrients India" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Crystal Crop Protection P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Crystal Crop Protection Seeds" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Crystal Crop Seeds (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dadaji Bhandar Tirupati Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dadaji Pesticide Shivna" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dalsing Bhilu Ghoghnath" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dalsing Ransing Sundrel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dama Bhagada Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Damu Sitaram N.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dandu Rewliya Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dangi Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dayaram Aanandram Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dayaram Babulal N Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dayaram Raju N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dazzle Corporation  Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="D.D. Agro Agency Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DD Commision Rec." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deda Juwansing B.Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dedu Revliya Rodiya Nadi Par" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deepak Beej Bhandar Pipalzopa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deepak Choudhary Dhakalgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deepak Krishnlal Y. Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deepak Ksk Dhulkot" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deepak Kushwah Sir (Swal)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deprication" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deva Bhai G Temla (Bhikangaon)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devdhar Seeds &amp; Pesti. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devendra Dipen Mohan Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devendra Kushwah Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devendra Pawar Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devendra Yadav Sagur-Bhaghur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DEVEN SHALAKHEDI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Deven Tantu Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devesing Pawar Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devilal Bhai Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devilal Ratan G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devraj Unkar Kochle Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devram Gabba N Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DEVRAM  GANGARAM  Y ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devram Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DEVRAM SITARAM ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devram Sitaram N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devram Tukaram Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devshri Enerprises Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Devshri Traders Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhadiya Krishi Kalyan Kendra Nandra" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhansing Bhai Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhansing Mangilal Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhanuka Agritech Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhanuka Agritech Ltd(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharamveer Sisodiya Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharamvir Solanki Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DHARMEN AMBA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DHARMENDRA ANANDRAM CHONDI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharmendra Banchar  Y. Surva" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharmendra Coromasndel Com" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharmendra Panwar Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharmendra Rewaram Kamodwada" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dharmendra Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhartidhan Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhartidhan Ksk Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhartidhan Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhartidhan Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhiraj Sen Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhirendra Sing Kamalsing Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhyansing Bhiliya Ghoghnath" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dhyansing Hajarilal Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Diksha Traders Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DILEEP" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Badri Badole Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Bhai Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Gangrade Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Kadwa Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Kumar Motilal Vani Nanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Ramsing P Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Varma Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Yadav" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dilip Yadav Multhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Bhai Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Bhuwaniram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Chhagan Y. Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Chhogilal Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Gangaram Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Ganpat Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Gendalal Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Hiralal Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Mansharam Rehgoane" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Motiram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Rajaram P.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Rathod Nanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Seeds Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Varma Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dinesh Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dipak Bhai Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dipak Bhai Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dipak Choudhary Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dipak Jagdish D Ahrikheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dipak Premlal Birla Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Diploma" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Discount" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DISCOUNT GST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dishan Interprises Surari" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Divya Ksk Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Divya Shakti  Ksk Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dongarsing Vechla Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="D.P. Abhushan Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Drawing" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DR.Nanakram Chandu Ji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DR. Parmanand Ji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="DR. Purushtom Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dudha Kisan Narayan Balb." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dulichand Champalal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Dummy Party" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Durga Krishi Vikas Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Durga K S K Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Durga Ksk Rabidpura (Chilly)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Durga Ksk Raibidpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ecco Bazar Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Electricity Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Excel Crop Care Ltd(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Excel Crop Care Ltd.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Excise Duty 12.5%" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Expert Gentetic Pvt.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="F" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Fakhri Hardware Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Farmkart Online Services Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Fatthu Ji Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="F M C India Pvt Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Freight" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Freight (GST)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Frieght (18%)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Fulsing Dama Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Fulsing Thawriya Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Furniture" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gabru Madndriya Sarpanch Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gabru Yadav Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GADIYA NAHALA JAMNYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gajanand Bhai Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gajanand Motiram Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gajanand Ramsing N.Ahir" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gajendra Bhai Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gamarsing Hirla Ji Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GAMBHIR YADAV JI ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gandas Buda Bhilala Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Agency Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Agro Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Ksk Nandgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Seeds Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Subhan Chouhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganesh Yadav Anand" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganga Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganga Kaveri Seeds ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganga Kaveri Seeds Pvt. Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GANGARAM BALAJI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GANGARAM DUBE." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gangaram Ji Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gangaram Nathu Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gangrade Ksk Abhapuri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GANGRADE KSK. CHAINPUR" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganpat Birla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganpat Chhagan Birla Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GANPATI BIRLA UMRIYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganpati Ksk Ambad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ganpat Ji Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gayatri Devi Ji Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gayatri Fertilizer Bhilangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gayatri Fertilizers Bistan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gayatri Krishi Samadhan Kendra Bistan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gendalal Bawra Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gharda Chemi. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gildar Chhagan Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gildar Gamarsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ginu Chhitriya Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Global Green Agri Nova Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Godavari Krashi B.B. Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Godown Rent 1" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Godown Rent 2" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Godown Rent 3" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Godrej Agrovet Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GODREJ AGROVET LTD ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gokul  Mangilal Y.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gold" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GOLU" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gopala Agro Agency Punasa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gopal Bhai Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gopal Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gopal Machinery Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gopal Shivram Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gorelal Bisan Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gourang Ferti. Bistan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gourav Ksk Tanda Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gouvardhan Ganpat Akhirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Govind Bavraji Dhangar Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Govind Chohan Medical Ahir" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Govind Sabla N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Govind Shivram Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Green Crop Bio-Chem &amp; Fer.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Greenway Agro Enterprises" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Growill Agrotech Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Growill Agrotech Indore ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gst" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GST LOSS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="G.S. Traders Jaswadi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="G.S. Traders Temla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gujar Agro Agency Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gulabchand Chhogalal Dudgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gulabsing Billorsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gulsing Khubhan Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Guman Navalsingh Kalbh." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gupta Krishi Sadhan Kendra Beed" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gupta Ksk Beed" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gupta Ksk Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gupta Machinary Stores Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gupta Trading Com." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gurjar Agrp Ag. Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gurjar Ksk Singun" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gurukripa Agro Traders Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gurukripa Krasi Center Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Guru Kripa Pesticide Dhangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gurukripa Traders Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="GYANSING" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gyansing Somla Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Gyanu Bhagirath G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Haji Ali Mo.Gulam H.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Haji &amp; Sons Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hanif Chacha Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hardik Ksk Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hare Singh Unkar Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hariom Ksk Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hariom Ksk Thibgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hariyar Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hariyar Traders Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harman Seeds &amp; Cot.P.L.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harshdip Enterprises Katargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harshdip Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harsh Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harsh Enterprises Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Harun &amp; Sons Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hasram Malsing Lalbeda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Heda Enterprises Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hedding Charge" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hemchand Jain &amp; Sons Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hetanshi Beej Bhandar Thangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hetanshi Beej Bhandar Thangaon(Devendra)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Him Agro Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Himanshu K S K Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Himanshu Traders Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hindustan Biotech &amp; Chemicals Bhopal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hindustan Pulvrising Mills ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hiralal G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Home Loan H D F C" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="House at Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="House at Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hpm Chemicals &amp; Fertilizers Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hpm Chemicals &amp;Fert.Ltd ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hukum Bhai Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Hukumchand Rajmal Jain Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ichiban Crop Science Ltd Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="I D F C Bank" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Iffco-Mc Crop Science Pvt. Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="IGST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ikbal Khan Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Income Tax" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indarsing Darbar Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indarsing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indore Biotech Inputs &amp; Research Pvt.Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indore Fertilezers Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indo Swiss Chemicals Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Indus Health Plus" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Insurance Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Interest Paid GST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Interest Paid on U Loan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Intrest Rec." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Intrest Rece.Siq.Dep." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Intrest Rec.on Bank" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Intrest to Bank" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Inverter" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Irban Dashrathji Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ishak Khan Natthu Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ishram Dongarsing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagan Chamariya Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagannath Nanaji Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagannath Patel Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Anarsing Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Dongarsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Ganpat" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Ganpat Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Ganpat D.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Kalu N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Mehtab N. Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagdish Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jagram Kavarsing Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jai Ambe Sales Bistan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jai Kisan Beej Bhandar Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="JAI KISAN GHUGHRIYAKHEDI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jai Kisan Krishi Clenic Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="JAI MOTI BABA KSK MACHHALGAON" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Agro.A. Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Beej Bhandar Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Beej Bhandar Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Seeds Corporation Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jain Stores Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaipal Singh Mandloi Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jai Sales Corporation Mandleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jai Shri Agro Agency Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaishri  Agro Ag. Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaishri Ambe Interprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaishri Balaji Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaiswal Traders Bamkhal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jalal Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jamsing Gamarsing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jayant Chouhan Bhikangaon(Tulasi Seed)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jay Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jay Prakash Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jayram Amarsing N.Kalbh." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jayram Nayak Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jaysing Bhai Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jay Traders Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jiriya Bhurla Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="JITEN BHAI AVLYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Birla Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Birla Moangargoan Pawan Traders" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Dogaya Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Hariram Kalbhadad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Jaiswal Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Laxman D Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Machinery Bistan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Patidar Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Rama Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitendra Rathod Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="JITEN LAXMAN BHAG." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jitu US Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jivan Nanaji Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jogendra Laxman Selda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Juwansing Pyarsing Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Jyoti Dinesh Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kadwa Arjun G. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kadwa Mayaram G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kadwa Sitaram Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kailash Mangilal N.Bhag.*****" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kailash Natthu G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kallu Tayler Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kalu Giriraj Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kaluram Gendalal Y Sirlay" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kalu Shankriya N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kalu Sitaram P Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kalyani Ksk Dhangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kalyan Ranchod Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamalchand Devram R.Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamalchand Sitaram Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamal Chhagan Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamal Ghisilal P.Sahjela (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamal Kishor Sharma (Dhanuka)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamal Kumar Kantilal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamalsing Fatthu Bilkhed" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Ambaram P Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Bhai Rasi Seeds" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Birla Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="KAMLESH GOVIND CHHIRWA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Machnery S Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Patel Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Patidar Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kamlesh Patidar Nandra" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="KAMLESH YADAV" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="KAMLESH YADAV SERJLAY" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kanha Dhangar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kanha Seeds Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kanha Seeds Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kaniram Patel Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kantilal Chandmal Ratlam" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kanwa Krishi Paramarsh Zirnya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kapil Seeds Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kapil Traders Bhikangon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Karan Nayak Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Karansing Fulsing Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Karansingh Nayak Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Karan Solanki" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Karan Tayler Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kashiram P Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kashiram Ramsing Mina Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="K Bord" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="K. D. Mehta Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kedarnath Bhai Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Keriya Thau Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Keshram Vechla Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Keybord" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khaitan Chemicals &amp; Ferti. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khaitan Phosphate P.L. (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khandelwal Ago Ag. Khetiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khandelwal Agro Agnecy Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khandelwal Ksk Dawana" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khemla Shomla Bhi.Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khemraj Motilal Jain Pipliya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khemsing Mekenik Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kheti Badi B.B. Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kheti Badi B.B.Khargone (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kheti Badi Beej Bhandar Khar." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Khushyal Sitaram Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kiresing Mandloi Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agri. Cleanic Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agri Mart Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agro Agency Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agro Agency Gandhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agro Agency Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Agro.Ag.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Krishi Samadhan Chhalpa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Krishi Samadhan Kendra Temla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Krishi Samuh Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Krishi Upchar Kendra Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Ksk Mandwi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Ksk Nagziri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Ksk Nagziri(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Pesticide Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Sahkar Harda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Seva Samadhan Dongargoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Shakti Enterprises Ghotiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kisan Trading Com. Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kishor Balaji N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kishor Jirati Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashak Paramarsh Kendra Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashi B .B. Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashi Jagat Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashika Traders Jamli" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashi Paramarsh Kendra Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krashi Sudhar Kendra Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kripal Traders Dhargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Jagat Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishikalp Farming Technology Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Kalyan Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Kalyan Kendra Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Laxmi Kendra Purnia" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Mandir Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Paramarsh &amp; Hardware Goradiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Paramarsh Kendra Zhirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishi Sudhar Kendra Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishna Jadhav" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishna Ksk Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishnalal Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishna Machinary S.Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Krishna Traders Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kriti Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kuber Agro Agency Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kuber Enterprises Semalda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kumarsing Hirla Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kumrawat Ji Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kunal Ksk. Kotha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="KUNDAN  YADAV  REHGAWAN" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kunj Traders Mandleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kush Agro Badgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="KUSHILAL BHAI BAGHKHEDA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kushwah Ksk Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Kutbi Stores Pansemal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lacchiram Balaji D. Bhag," RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lacchiram Bamniya G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Dhangar Pawna Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Enteprises Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Nayak" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Sardar N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Traders Bediya (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhan Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhmichand Kishanlal Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lakhmichand Kishanlal Badwah -ICS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lalit Jaiswal Sakargoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lalit Medical Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lalu Bhai D. Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laptop" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lata Bai Mishrilal Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Late Payment Charges" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxchamn Singh Selda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxman Bavra Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxman Bhai Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxman Singh Goud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxman Unkar N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Ksk Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi K S K Ahirkheda ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Ksk. Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Ksk Bhadwali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Ksk Nandgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Traders Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Laxmi Tredars Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="LED" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Legal Fees" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Legal Fees (Pro.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lekhramji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="LIC" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lic Max" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lic Refund" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Locker Rent" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lokendra Yadav" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lokendra Yadav Dayalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Loken Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lokesh Ksk Singune" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lokesh Madhav P.Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lokesh Ramesh P Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Love Kush Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lovekush Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Lovekush Ksk Singune" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Luckky Traders Kanapur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Anarpurna Enterprises Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Ashapuri Pesticide Pansemal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Gayatri Ksk Kalmukhi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Gayatri Ksk Punasha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Laxmi Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Laxmi Ksk Rengwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Mansa Agrochemicals &amp; Ferti.Nagalwadi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Agro Ag. Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Agro Ag. Bhikhangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Agro Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Beej Bhandar Pipliya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada K. B.B. Baswa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Krishi Cleanic Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Traders Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Traders Gogawa (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Narmada Traders Somakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Rewa Ksk Barwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Rewa Trading Comp. Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Shakti Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Sharda Seeds Bedia" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Umiya Ksk Adalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Umiya Ksk Dhargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Umiya Traders Maheshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Umiya Tredars Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maa Vaishnavi Ksk Bagarda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madanlal Bansilal Agrawal Shirpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madhav Gallu N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madhav Kutriya Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madhuri Ksk Behrampura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madhuri Manish Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MADHUR JAAT (EXCEL COMPANY)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madhusudan Dhakad (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Madiya Nahala Jamnyapani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Magan Kutriya Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahadev Nanuram Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahadev Patidar (Gharda Chemicals)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahadev Patidar (Gharda Co.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahadev Sabal Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahadhan Phosphate Pvt.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahalaxmi Beej Bhandar Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahalaxmi Ksk Khalghat" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahalaxmi Seeds Company" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahavar Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahendra Motla Ahri." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahendra Ramratan Z Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Gangaram Ji Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Jaiswal Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Kanhiyalal Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Malviya Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Patel Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Patel Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MAHESH P CHONDI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Sakharam Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Sen Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahesh Shah Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahi Machinery Ganwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahindra Summit Agriscience Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mahyco Company Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maintanation Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Malhar Drip &amp; Fer.Badwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manakram Bhai Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manakram Gangaram Bhag," RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mandloi Agri Clenic Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mandloi Agro Ag. Badwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MANGILAL BHAI PADLYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mangilal Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mangilal Somla Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mangilal Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manglam Agro Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manglam Ksk Bakaner" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manglam Ksk Magarkhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manglya Narsing D.Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MANISH BHAI BHAG." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manish Gupta Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manish Gupta Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manish Gupta R Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manish Kumar Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Man Life Insourance" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manohar Ganpat Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manohar Patel Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MANSHA K.S.K OJHAR" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mansharam Babulal N.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mansharam Babulal Nidavle Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mansharam Parashram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mansharam Vishram N.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Manthan Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mantri Machinery Chhanera" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mantri Machinery Stores Harsud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Maruti Nandan Ksk Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Matra Chhaya Ksk Lonara" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mauli Krushi Seva Kendra Shevgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayank Interprises Un" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayaram Devram Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayaram Dulichand Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayaram Ghanshyam Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayur Enterprises Katargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mayur Ksk Pansemal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Meera Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mehtab Bhai Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MEHTAB BHAI LALBEDA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MILK WALA BHAI KGN (BRAJESH SETH HOME)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MINA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mishirilal Jagram N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MISHRILAL JI YADAV DAYALPURA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mishrilal Mansharam Shalakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mishrilal Natthu Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mobile" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mofatlal Nana Bhanwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Bhai Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Dhangar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Fattuji Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Hanshram Rathor Pansemal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Kalu P.Chondi (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Kumrawat Barud (Vinay Bhai)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohanlal Khandelwal Pansemal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Mina Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Patel Ji Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Ramlal Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Ransing B. Balya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohan Thakurlal D. Kanzar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohit Traders Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mohit Traders Umriya (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mojilal Patel Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Monika Enterprises Mandleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Monika Interprises Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Motiramji Kirana Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Motor Cycle" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukati Ksk Kedwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Bhagirath Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Bhagwan Ji Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Bhai Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Dhansing N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Ganpat Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Hiralal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Hukumchand Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Mahendra Pawna Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="MUKESH MORE" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Shankar N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Tantu G. Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mukesh Yadav Akhapura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Muleva Agro Chemicals Barwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Murar Mangat P.Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mursing Gamarsinn Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Mustkim Khan Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nacl Industries Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nafees Ji Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nagarjuna Ferti.&amp;Chem.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nagde K S K Arudh" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nageen Kavarsing N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Najmuddin &amp; Com.(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Najmuddin &amp; Com.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nanakram Patliiya Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nandkishor Rameshchand" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nandram Hiralal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nandu Parsiya N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nannu Babulal N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nannu Bhai Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nannu Fattu Tayler Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nannu Gupta Adalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nannu Mayaji N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nanuram Champala Dongar." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nanuram Vithhal Yadv Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narayani Traders Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narayan Kashiram P.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narayan Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narayan Rukhdu Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narendra Bhai Mohammadpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narendra Bhai Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narendra Pawar Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narendra Shivram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narendrasih Chouhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Agro A. Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Agro Agency Bhikangaon (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Agro A. Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Enterprises Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Enterprises Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Ksk Dhakalgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Ksk Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Narmada Ksk Rajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Natraj Ksk Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Natwar Babulal N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Navalsing Sukliya Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Naveen Interprises Balwadi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="NAVIN Joshila Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Navin Ksk Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Navkar Agro Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Navnit Bhai Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Navrang Stores Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="N.C.B.F. Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Divya Ksk Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Gupta K S K Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Kisan Beej Bhandar Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Kunal Ksk Shivna" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Malviya Beej Bhandar Pipalzopa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Narmada Agro.Ag. Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Paper" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Patel Ksk Bamandi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Pawan Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Radha Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Radha Ent. Khargone (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Radha Ent.Khargone (Syngenta A/c)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Radha Ent. Syngenta (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Rajshri Ksk Borlai" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Rajshri Ksk Borlai (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Sanjay Ksk Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Sanjay Ksk Ahirkheda ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Shriram Ksk Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Shubham Ksk Shivna" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Singaji Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="News Paper" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Vaishnavi Seeds Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Vaishnavi Seeds Pipalgone (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="New Vikas Ksk Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="N.G.Sugandhi &amp; Com.Dhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="N.G.Sugandhi &amp; Com.Dhar Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niketan Parsai Ji Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikhil Bhai Krishi Beej" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikhil Interprises Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikhil Sir Dhanuka" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikhil Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikhil Traders Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikung Trading Company Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nikunj Tredars Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nilesh" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nilesh Bhai Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nilesh Bhargove" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nilesh Yadav Ahir.(Bilkhed)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nimad Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Bhawsar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Kailash N. Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Ksk Singun" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Ksk Singun (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Patidar Adalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Niraj Traders Bakawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nirmala Devi Singhaniya Pandwada" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nirmal Bhai D Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nitesh Bhai Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Noorani Printers Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nu Genes Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nu Genes Pvt.Ltd. ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nutan Machinery S. Manavar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Nutri Crop Care Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Agro Enterprises Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Kapur Nandra" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Ksk Bamandi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Omprakash Gupta Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Omprakash Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Om Sai Ksk Singune" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Other" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Other Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Other Reciept" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Padam Sakharam G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pahadiya Trading Com.Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pahadiya Vanijya Pvt.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Paliwal Traders Balwadi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pankaj Bhai Crystal Com." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pannalal Rama N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pappu Kishan D.Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pappu Zalotra Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Parasram Ji Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Parasram Mukati Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Parasram Naru Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Parmanand Radheshyam Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Parth Enterprise Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Passion Greens Agritech Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Agro Agency Dodawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Agro Hatola" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Ksk Devli" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Ksk Dogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patel Marketing Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Agency Balsamud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Agri.Cleanic Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Agro.Ag.Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Dawa Bijaran Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Ji Crystal" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Ksk Dongargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Ksk Mandleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Ksk Sundrel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Pesticide Katargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Seeds P.L.(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patidar Seeds P.L. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patliya Brothers Lonara" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Patliya Shivji Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="PAVESH" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pawan Agro Seeds Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pawan Barveji Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="PAWAN GUPTA AHIRKHEDA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="PAWAN PATEL PADLYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pawan Seeds Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pawar Ji Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="PAWAR JI SWAL" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pawar Ksk Bherughat" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Perfect Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Perfect Enterprises Khargone (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Petrol Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Phone Pay" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pirag Agro Raibidpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Piyush Ksk Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Poonam Agritech Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Postege Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Power Bank" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pradyum Ksk Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pragti K S K Mandleswar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Enterprises Badwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Interprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Jogilal N.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Mehtab N.Ahri." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Patidar Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prakash Yadav Rehgoane" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pramod Ksk Brahnpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pratap Anarsing Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pravin Gupta Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pravin Kumar Agrawal Ozar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pravin Patel Katkut (Synergy)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pravin Rao Synergy Seeds" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premchand Raghuram Patel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prem Interprises Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="PREMKUMAR CHOUHAN KHARGONE" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Aasharam Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Jirati Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Patel Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Shankar R.Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premlal Sukhalal Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prempushp Agro A.Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Premsing Sardar Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Prienter Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Professional Tax (Pro.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Profit &amp; Loss A/c" RESERVEDNAME="Profit &amp; Loss A/c"></LEDGER>
+                <LEDGER NAME="Property Tax" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Puja Enterprises Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Puja Interprises Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Puja Ksk Balwada" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Puja K S K Dhargoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Puja Machinary Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Punamchand D Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Punamchand Sitaram Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Punam Mehtab N. Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pur. GST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pur. Return Gst" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pushpendra Bhai Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pyaresing Munim Pokhar Khurd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Pyarsing Ramsing Lalbeda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RADHA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radha Agro Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radha Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radha Krishi Beej B.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radhe Agro Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Aanandram Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Dashrath Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Dayaram G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Patel Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Patel Chhirwa (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radheshyam Pyarsing Lalbeda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RADHESHYAM Y DAYALPURA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radhika Seeds &amp; Pesti.Atut Khas" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Radhika Traders Nandgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raghunath Bhai Bijasan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raghuram Ghanshyam G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raghuvanshi Beej Bhandar Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rahul Agro Agency Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rahul Dhangar Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rahul Enterprises Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rahul Machinery Bhikangaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rahul Yadav (Adama)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAHUL YADAV MULTHAN" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raj Agro Collection Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raj Agrotech Mundi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Bhai Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Dashrath Ji Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Dongarsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Ganpat Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Karansing Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajaram Patel Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajat Kumar Vinod Kumar Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajbala Trading Com.Manavar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajen Bhai Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAJENDRA SINGH AMLATHA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajen Kumrawat Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Anarsing N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAJESH BHAI REHGAON" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Brothers Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Ksk Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Kukmar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Kumar Makhanlal Ozar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAJESH MADAN NAYAK" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Namdev" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rajesh Totaram Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raju Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Raj Verma Khargone (FMC)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Bhai Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Bhai Patidar (Indo Swich)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Birla Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Brothers Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Gupta Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Hiralal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Jagannath Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Ji Jaiswal (Adama)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Patidar Mandleshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Rukduji Y Padliya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rakesh Yadav Dayalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rama Raju N.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rambaji Ksk Nandra" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramchandra Ganpat N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramchandra Kashiram D.Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramcides Chemicals P.L.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Bhai Rehgaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAMESH BHAI RODIYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Dashrath P.Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Guman Bhag.********" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Jairam Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Kashiram P.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Pratap Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramesh Reljiya Dongargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rameshwar Bhangi N Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rameshwar Kakaji Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rameshwar Mehtab N.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rameshwar Parasram G. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rameshwar Yadav Sahejla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAMJAN BHAI ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramji Ksk Dhargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkaran Dagdu P. Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkaran Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkaran Premlal G. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkaran Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkrishna Machinary Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramkrishna Machinery Gogawa (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramlal Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramlal Dhaniya N.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramlal Ji Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAMNARAYAN CHAMPALA BHAGWANPURA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramnarayan Jaising Akhapura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rampal Bhai Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rampal K Nayak Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rampal Pawar Amba" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramratan Ji Umariya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramshewar Nindawale Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramsing Bhadar Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramsing Keriya Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramsing Nihala Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramsing Nihala Dongargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ram Traders Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ram Traders Dhamnod ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ram Traders Karahi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ram Traders Karahi ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramu Kanvarsing Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramu Nayak Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ramu Shivlal Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ram Verma Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ranchhod Mangtya Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ranchhod Natthu N.Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rani Enterprises Lonara" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rani Ksk Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rani Machinary Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rani Machinery Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ransing Chamariya Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ransing Gumansing Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rasi Seeds P.L.(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rasi Seeds P.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rate Difference - GST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rate Difference - GST 12%" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rate Difference - GST 18%" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rate Difference - GST 5%" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rate Difference - Tax Free" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rathor Agro Nagalwadi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rathor Ksk Badwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rathor Ksk Balkuwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rathor Ksk Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="RAVI BALIRAM JI ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ravi Ksk Bamandi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ravi Ksk Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ravindra Nahru P Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ravindra Rameshwar D Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Razorpay Software" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Refrencement Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rekha Raju N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rekharam Sakharam G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Remsingh Gulsing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Renewal Fees (Bank Exp.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Renewal Fees (Bank Exp. Return)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rewaram Bhai Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rewaram Darbar N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rewaram Punaji Yadav" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rewaram Raju N. Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rewaram Sakharam G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ridam Agritech Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rishabh Agrotech Ratlam" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Bhai Mahmmadpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Bhai Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Chouhan Mahmmadpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Machinary Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Mangilal Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Mathur Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Tarachand Patidar Dhargoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ritesh Traders Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="R.J.Patidar &amp; Com. Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="R.K.V.K.Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rohit Karma" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Romsing Thau Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Round Off" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="R.R. Seeds &amp; Pesticide Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ruchi Agro Enterprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ruchi Agrotech Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Ruchi Agrotech Indore(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rudraksha Krishi Clenic Maheshwar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rupali Traders Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rupesh G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Rupesh Jairam G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="R.V Traders Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sachin Balakram Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sachin Ganpat Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sachin Jangada" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sachin Joshi Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sadashiv Agro Bhikangaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Saduram Shivji P.Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Safal Seeds &amp; Biotech Jalna(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Safal Seeds &amp; Biotech Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sahkari Sakh Sanstha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sahyog Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Beej Bhandar Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Beej Bhandar Shivnagar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Fertilizer Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Saifi Machanery Rajgad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Hardware Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Ksk Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Ksk Bitnera" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sainath Fertilizer Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sainath Machinery Bhikangaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sainath Tredars Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Traders Khar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sai Traders Somakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sajan Bhangi N Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sakhram Chhitriya Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sakshi Enterprises Mengaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Salam Guman Malpar Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SALE GST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sale Gst - Net" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sale Return Gst" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SALES" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sales B India Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Salman Khan Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Saluja Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Samarth Industries Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Samarth Interprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Samarth Ksk Ghughriyakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Samraddh Ksk Tanda Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanchiya Traders Nanded" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sandeep Chouhan Mulathan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sandeep Sales Badwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sandeep Sales Badwani (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sandip Ferti. Gughriyakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sandip Fertilizer Bakawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sangam Beej Gogawa ABS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sangam Beej Sahakari Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sangam Seeds A.P. Dayalpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sangam Seeds &amp; Corporation Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sangam Seeds Dayalpur Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Bhai Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Bhai G  Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Nayak Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Sales Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Seeds Ghughriyakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Seeds &amp; Pesticide" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Seeds Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Shivram Y.Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SANJAY YADAV ANDAD" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SANJAY YADAV MAHINDRA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjay Yadav Thibgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanjivani Bio Genetics India" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sanny Pesti. Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SANTOSH" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Agro Bikangone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Bhai Adalpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Bhai Y Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Gupta Rehgoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Kashiram Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Ksk Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Maya N. Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Motiram" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Santosh Parashram Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SANTOSH PATIDAR" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sant Singaji Ksk Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sara Seeds Agritech Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sardar Birbal N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sardarsing Gulabsing Bakaner" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SARITA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sarmad K S K Tandabarud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sarthak Agro.A.(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sarthak Agro A.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satapuda Ksk Dugani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satguru Agencies Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SATISH BHAI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SATISH YADAV DEDGAWAN" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satnam Ksk Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satyam Hibride Seeds Ozer" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satyam Sales Cor.Aastha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Satyam Sen Kudgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Saurabh Sales Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SAVAN BHOLURAM" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SAVAN CHIRWA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawliya Ksk Niwali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Agri Mart Ozar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Ksk. Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Ksk Bediya Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Ksk Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Seeds Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sawriya Trading Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sbi C A/c 53024120205" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sbi Gogawa S A/c 53024148186" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="School Fees" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Seeds Sales" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Seedworks International P.L. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Seedworks Int.Pvt.Ltd. (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sekhawat Ji Dhanuka" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="S.G.Enterprises Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SGST" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SGST (Return)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shah Agro Agency Barwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shah Agro Barwaha (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shahrsha Seeds Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shakti Bhai Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shakti Coper Rajaram Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shakti Trading Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shalu Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankar Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankar Kola N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankar Natthu Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankar Pratap N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankar Sabal P Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shankriya N Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shantilal Natthuji D.Ahir" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sharma Ji (Excel)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SHARMA JI VIMAX" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sharma Ksk Bilali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SHASHIKANT BHAI DEVLA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shashwat Agri Agency Burahanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shekhar Ksk Sawer" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shelendra Sing Tawar Khamkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shelesh Bhai Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shital Seeds Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shital Seeds Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiva Agricare Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiva Dhangar Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Bhandari Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Enterprises Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Seeds &amp; Pes. Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Traders Dhargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Traders Jirbhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivam Traders Karahi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivani Enterprises Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiv Birla Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiv Birla (Sumitumo Com)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiv Gouri Ksk Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiv Ji Kadwa Rehgaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivji Parasram N.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivkarn Bhai Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivkumar Rajpoot Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivnarayan Champalal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivnarayan Ji Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivraj Sih Rajput Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Mangilal G Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Mangtya D.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Mojilal N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Narayan Ji Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Natthu N. Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Ramchand P.Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Raniya N. Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Rukhdu Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shivram Shuklal G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shiv Shakti Shivna" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shobharam Jawansing Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shobharam Malkhar Aajangaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shop Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shorabh Sales Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shorya Ksk Nagonwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shraddha Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shraddha Ksk Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shraddha Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shradha Ksk Khargone(Aurangpura)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shree Beej Bhandar Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shree Krishna Beej Bhandar Julwaniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shreyans Treding Co.Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Agri Cleanic Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Balaji Traders Ambad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Balaji Traders Dhargaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Balaji Traders Jalna" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Balaji Vihar Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Bhumi Agro Agency Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Dinesh S/o Tarachand Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Ent. Ahirkheda (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Enterprises Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Ganesh Agri B. Uoon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Ganesh Beej Bhandar Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Gorendeshwar Gou-Shala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Hari Ksk Sulgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri I G Tredars Badwah" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Indrani Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Kisan Ksk Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishi Beej Bhandar Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrikrishi Beej B. Sanawad Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Agritech Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Agro Agancy Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Beej Bhandar Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna &amp; Com. Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Ent. Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Krishi Clinic Ashok Nagar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Ksk. Bitnera" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Krishna Ksk Borlai" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Mahankal Traders Vidisha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Mangalam Agro Khirkiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrimaya Ksk Nimach" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Narmada Ksk Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Nath Agro Agency Dhrampuri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Nath Ferti. Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrinath Fertilizer Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrinath Fertilizer Thikri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrinath Ferti. Thikari (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrinath Krishi Sadhan Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shrinath Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Prabhu Kripa Krishi Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Radhe Agri. Bhulgaon (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Radhe Agritech Bhulgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Agro Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Bioseeds Genetics (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Bioseeds Genetics Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Ram &amp; Com Multhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Crop Science Pvt.Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Ram Fertilizers &amp; Chemicals" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Ksk Savda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Machnery S Maheswar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Seeds Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shriram Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sachchidanand Ksk Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Beej Bhandar Sibar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Enterprises Uoon Khurd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Interprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Ksk. Kawdiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Ksk Un Khurd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Traders Aanjangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sai Traders Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Satguru Traders Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Sawriya Ksk Silawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Shakti Machinery Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shri Vijay Shri Ksk Umarkhali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shubham Agro Agency Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shubham Enterprises Manawar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shubham Varma" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shubh Labh Agro B.C. Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shubhshri Machinery S Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyam Agro Agency Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyam Brothers Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyam Chhogalal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyamlal Chhogalal Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyamlal Sen Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Shyamlal Y. Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Agro C.&amp; Business Center Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Agro Agency Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Bediya (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Bhikangoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Ksk Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siddhi Vinayak Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siliconveins Pvt. Ltd. Mumbai" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Simran Enterprises Kataphod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Adma India P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Chambal Ferti.Cham.Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Cheminova India Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Coromandal International Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Crystel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Excel Crop Care" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. FMC" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq Ganga Kaveri Seeds P Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Gharda Chemi.Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Godrej Agrovet Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Hindustan Pul. Milss" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Ichiban Crop Science" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Iffco Mc Crop Science Pvt Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Indo Swise Chemicals Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Mahindra Summit Agri. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Nagarjuna Agri Chem. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Nagarjuna Fetriliger" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Nirmal Seeds Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Nu Jenus" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Nuziveedu Seeds Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Safal Seeds &amp;Biotech" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Seedworks Int. Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Shri Bio Seeds" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Sumitomo Chemicals" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Sumitumo Chemicals Besic" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Swal Corporation Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq.Tulsi Seeds Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Vat" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Vimax Crop Sciences" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Siq. Zeal Chamecals" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sisodiya Ksk Pipliya Bujurg" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram  Gendala Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram Gokul Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram Ji Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram Ji N Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram Ji Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sitaram Nayak Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="S.K. Traders  Nandgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Smt. Sevantibai Tarachand Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sohanlal Kanhiyalal Khandwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Somani Brothers Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Somchand Chenraj Kalmukhi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Somnai Brothers Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Somya Vihicles Pvt Ltd Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Soumil Agro Agency Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Srikar Biotech Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Srikar Biotech Pvt Ltd Abs" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Star Fertilizer Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Stationary Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Stationery Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Stem Farm Growers Pvt. Ltd. Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SUBHAN" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhan Gamarsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhan Wakdiya Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhash Dongar Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SUBHASH MALVIYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SUBHASH MULTHAN" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhash Ramlal Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhash Sitaram Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Subhash Unkar Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sudarshan K.V.K.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukanya Yojna ( Kriya Gupta )" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukhalal Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukhdev Bhai Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukhdev Champala Sen Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SUKHLAL" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukhlal Ramsing Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sukhlal Tukaram Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suklal Maniya Bijasan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suleman Yashin Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumee Agro Services Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumitomo Chemical India Ltd. (Excel)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumitomo Chemical India P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumitomo Chemicals Pvt. Ltd. (Besic)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumitumo Bhai Manavar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sumitumo Chemicals Pvt. Ltd (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sundaram Finance Car Loan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sundarlal Natthu D.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Babulal Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Bhai Dhanuka Com." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Bhai Ichiban" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Chore Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Nanuram Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Solanki" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sunil Solanki Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SUNIL YADAV (DHANUKA) BAMNALA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suren Birla Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Anarsing Rodiya  (8 Day)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Bhai Rathor Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SURESH BHAI RODIYA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sureshchand Gulabchand Gupta Rajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Chotu Y Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Gupta Bhadwali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh N Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Patidar Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Patidar Surpala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suresh Tantu P Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Sursing Gamarsing Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Surya Interprises Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suspense A/c" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suvidha Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Suyash Tayers Alirajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Swal Corporation Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Swal Corporation Ltd. (Gujrat)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="SWALIYA KSK NIWALI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Swami Tredars Dhangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Swapnil Khode" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Synergy Seeds Sir" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Synergy Seeds Upleta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Synergy Seeds Upleta (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Syngenta India Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tally ERP9.Software" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tally Mulatiusers" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tally Sofware" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tantu Mohan G.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tantu Patel Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tapan Ksk Sundrel" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tarachand Laxman Y.Reh.(Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tarachand Laxman Y.Rehgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tara Cotton Bagod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="TARU BHAI" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tax Free Goods" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tax Free Purchases" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Taxfree Return" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="TDS" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="TDS (Pro.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Teliphone &amp; Mobile Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Thau Mangilal Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Thiriyasing Mandloi Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tilokchand Ghapdiya Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tilok Mina Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tilok Panchi N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tilok Shankar Ji Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tirath Labhsih B Zirnya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tirupati Agro Agency Barwaha" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tirupati Enterprises Zirniya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tiruupati Enterprises Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tomar Ksk Mahmmadpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tomar Ksk. Mahmmadpur (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Totaram Narayan Ji Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Transworld Furtichem P.L. Alkapuri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Transworld Furtichem Pvt. Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Trilokchand Ranchhod Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Trishakti Seeds Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tukaram Patel Nimoni" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulasi Ksk Rajpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulasiram Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulasi Seeds Ltd." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulasi Seeds Pvt.Ltd. (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulasi Seeds Pvt. Ltd.  Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Tulsi Krishi Cleanic Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Uday Ksk Segaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Umar Smail Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Uma Seeds &amp; Pes.Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Umersing Sikdar Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Umkar Mangilal Y.Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Union Bank" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Union Bank A/c 553101010050066" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Universal Graphics Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unkar Dhanna P.Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unkar Didar N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unkar Puran N. Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unkar Yadav Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unnat Krishi Form Dhamnod" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Unnat Ksk Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Upaj Ksk Barud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="U.P.L. Limited Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Usha Agro Khetiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaishnavi Agro Agency Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaishnavi Fert. Chem. Ghughriyakhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaishnavi Fert.Chem.Ghughriyakhedi (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaishnavi K.S.K. Lohari" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaishnavi Seeds Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vaisnavi Seeds Bhatyan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vandana Agro Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vanita Agrochem P.L." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vanshika Agro Agency Dawana" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vardhman Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Varnit Gupta" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Varsha Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Varsha Ksk Mengoan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Varsha Pesticide Anjad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vashudev Nanakram Chhirva" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vashu Traders Aajangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vasudha  Krishi Vikash Kendra Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vasundhara Seeds Chemicals &amp; Ferti.Balsamud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vat Tax  Paybale" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vat Tax (R)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vat Tax Return 5 %" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vedika Ksk Sulgaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vedika Traders Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vehical Exp." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Veniram Ganpat Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Veniram Shah Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Verma Ksk Mangrul" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vibhor Santosh Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vicky Sisodiya Bhikangaon" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vidhi Agro Agency Dhargaone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vidhya Shri Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vidhya Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vidhya Traders Bediya (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Agro Agency Kheddigar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Agro Agency Rajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Agro Ag.Kheddigad (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Bhai Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Bhalaji Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Brothers Badwani" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Choudhary Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Fertilizers Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="VIJAY GUPTA AHIRKHEDA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Kalu N.Avlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Krishi Kendra Burhanpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Ksk Dhulkot" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Nindawale Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vijay Ramlal Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikas Agro Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikash G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikas Ksk Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikas Shivram P Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikram Anarsing Rodiya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikram Bijasan Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vikram Ramlal Lalbeda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vimal Birla Bhagwanpura" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="VIMAL RADHESHYAM BAGWANPURA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vimal Zapdiya Devla" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vimax Crop Science L.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinayak Fertilizer Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinayak Ksk Rajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinayak  Ksk. Sanawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinayak Traders Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinay Dhanuka Pes." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinay Vishnole Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinodrai Pandya &amp; Sons Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinodrai Pandya &amp;Sons (Pesicide)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vinod Shobharam Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vipul Bhawsar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Viraj Ksk Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virat Ksk Kukshi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Chouhan Borawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Chouhan (Gharda)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Jaiswal Akhirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Ji Chouhan Pipalgone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Ji Mandloi Andad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Virendra Yadav" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishal Agro Borud" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishal Khargone (Dipo.)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishal Lakhan D. Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="VISHNU BHAG." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="VISHNU KAMAL P BALAKWADA" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishram Bhilaji N.Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishram Nayak Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishram Tantu Ahri." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishwadutt Minerals P.L.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishwam Pandya Ent. (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vishwam Pandya Enterprises Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="VISHWASH TIRGAON" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Vivek Beej Bhandar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Voltage Stabilizer" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Walsing Bhadar Pokhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Walsingh Badwa Kalbh." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="We Care Eco Farming Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="We Care Krishi Suraksha Kgn." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Westurn Agri Seeds Ltd" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Whatsapp Mobile Feature" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Whi Caire Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Xuv Car Insourance" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Agro Agency Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Brothers Bamnala" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Brothers Bamnala (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Ferti. Gogawa (Syngenta)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Fertilizer Gogawa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Ksk Bilali" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Ksk Kasrawad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Ksk Multhan" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yadav Traders Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yakub Kha Ahir." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yakub Lahor Ahirkheda" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yamini Beej Bhandar Karahi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yamuna Ksk Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yash Interprises Khargone" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yash Ksk Satkut" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yash Ksk Satkut (Abs)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yash Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yashwant Birla Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yashwant Choudhary Bhag." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yashwant Patel Chondi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh Chawriya Umriya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh G Padlya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh K.S.K. Sendhwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh Naharsing M.Chhirwa" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh Traders Bediya" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogeshwar Ksk Dhar" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogeshwar Ksk Nagziri" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yogesh Yadav (Hpm)" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yog Maya Ksk Rajpur" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yunush Kha Natthu Kha Kalbh." RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yusuf Khan Ramjan K Kalbharad" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Yuvraj Ksk Magarkhedi" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Zeal Tradelinks P.L.Indore" RESERVEDNAME=""></LEDGER>
+                <LEDGER NAME="Zuari Agri Scineces Ltd." RESERVEDNAME=""></LEDGER>
+            </COLLECTION>
+        </DATA>
+    </BODY>
+</ENVELOPE>

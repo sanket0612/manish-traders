@@ -1,0 +1,22 @@
+spring:
+  profiles:
+    active: @spring.profiles.active@
+#      active: dev
+  security:
+    oauth2:
+      client:
+        registration:
+          okta:
+            client-id: "0oa127qg9hDmYLx8q4x7"
+            client-secret: "c1ykupkrIaVd8fn3hhwXYtKiU4Lw3LC_Sj3xj9OB"
+            scope: openid, email, profile
+        provider:
+          okta:
+            issuer-uri: "https://dev-190224.okta.com/oauth2/default"
+
+logging:
+  level:
+    org:
+      springframework:
+        boot:
+          autoconfigure: ERROR

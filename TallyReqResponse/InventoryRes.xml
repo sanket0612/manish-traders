@@ -1,0 +1,251 @@
+<ENVELOPE>
+    <HEADER>
+        <VERSION>1</VERSION>
+        <STATUS>1</STATUS>
+    </HEADER>
+    <BODY>
+        <DESC>
+            <CMPINFO>
+                <COMPANY>0</COMPANY>
+                <GROUP>0</GROUP>
+                <LEDGER>0</LEDGER>
+                <COSTCATEGORY>0</COSTCATEGORY>
+                <COSTCENTRE>0</COSTCENTRE>
+                <GODOWN>0</GODOWN>
+                <STOCKGROUP>0</STOCKGROUP>
+                <STOCKCATEGORY>0</STOCKCATEGORY>
+                <STOCKITEM>0</STOCKITEM>
+                <VOUCHERTYPE>0</VOUCHERTYPE>
+                <CURRENCY>0</CURRENCY>
+                <UNIT>0</UNIT>
+                <BUDGET>0</BUDGET>
+                <CLIENTRULE>0</CLIENTRULE>
+                <SERVERRULE>0</SERVERRULE>
+                <STATE>0</STATE>
+                <TDSRATE>0</TDSRATE>
+                <TAXCLASSIFICATION>0</TAXCLASSIFICATION>
+                <STCATEGORY>0</STCATEGORY>
+                <DEDUCTEETYPE>0</DEDUCTEETYPE>
+                <ATTENDANCETYPE>0</ATTENDANCETYPE>
+                <FBTCATEGORY>0</FBTCATEGORY>
+                <FBTASSESSEETYPE>0</FBTASSESSEETYPE>
+                <TARIFFCLASSIFICATION>0</TARIFFCLASSIFICATION>
+                <EXCISEDUTYCLASSIFICATION>0</EXCISEDUTYCLASSIFICATION>
+                <SERIALNUMBER>0</SERIALNUMBER>
+                <ADJUSTMENTCLASSIFICATION>0</ADJUSTMENTCLASSIFICATION>
+                <INCOMETAXSLAB>0</INCOMETAXSLAB>
+                <INCOMETAXCLASSIFICATION>0</INCOMETAXCLASSIFICATION>
+                <LBTCLASSIFICATION>0</LBTCLASSIFICATION>
+                <TAXUNIT>0</TAXUNIT>
+                <RETURNMASTER>0</RETURNMASTER>
+                <VOUCHER>0</VOUCHER>
+            </CMPINFO>
+        </DESC>
+        <DATA>
+            <COLLECTION ISMSTDEPTYPE="Yes" MSTDEPTYPE="512">
+                <STOCKITEM NAME="00:52:34 1kg*25 Mahindra" RESERVEDNAME="">
+                    <PARENT TYPE="String">Mahindra</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 25.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>Primary Batch</BATCHNAME>
+                        <OPENINGBALANCE> 125.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-14297.87</OPENINGVALUE>
+                        <OPENINGRATE>114.38/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+
+                <STOCKITEM NAME="00.00.50 25kg(Co.)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Coromandol SND</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"> 13.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON>20180401</MFDON>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>01</BATCHNAME>
+                        <OPENINGBALANCE> 3.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-5571.75</OPENINGVALUE>
+                        <OPENINGRATE>1857.25/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD JD="43921" P="1-Apr-2020">1-Apr-2020</EXPIRYPERIOD>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.00.50(Nag.)25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Nagarjuna</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.00.50(Van)10kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.00.50(Van)1*20" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.00.50(Van)25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 1.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>Primary Batch</BATCHNAME>
+                        <OPENINGBALANCE> 1.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-5850.00</OPENINGVALUE>
+                        <OPENINGRATE>5850.00/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="0,0,50 1kg*25" RESERVEDNAME="">
+                    <PARENT TYPE="String">Coromandol SND</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"> 50.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON>20180401</MFDON>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>01</BATCHNAME>
+                        <OPENINGBALANCE> 25.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-2333.25</OPENINGVALUE>
+                        <OPENINGRATE>93.33/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD JD="43921" P="1-Apr-2020">1-Apr-2020</EXPIRYPERIOD>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00,52,34 1kg. (Cham)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Chambal</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 1.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>3001</BATCHNAME>
+                        <OPENINGBALANCE> 1.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-94.50</OPENINGVALUE>
+                        <OPENINGRATE>94.50/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.52.34 1kg(Co.)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Coromandol SND</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"> 150.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON>20180401</MFDON>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>01</BATCHNAME>
+                        <OPENINGBALANCE> 55.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-8276.40</OPENINGVALUE>
+                        <OPENINGRATE>150.48/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD JD="43921" P="1-Apr-2020">1-Apr-2020</EXPIRYPERIOD>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00,52,34 1kg (Nag)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Nagarjuna</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00,52,34 25KG" RESERVEDNAME="">
+                    <PARENT TYPE="String">Chambal</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 1.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>Primary Batch</BATCHNAME>
+                        <OPENINGBALANCE> 2.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-5025.00</OPENINGVALUE>
+                        <OPENINGRATE>2512.50/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.52.34(Nag.)25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Nagarjuna</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.52.34(Van) 1*20" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="00.52.34(Van)25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="0.52.34 1kgg(Yara)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Yara</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="0 52 34 25kg  (Coro)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Coromandol SND</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 123.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>01</BATCHNAME>
+                        <OPENINGBALANCE> 1.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-3166.75</OPENINGVALUE>
+                        <OPENINGRATE>3166.75/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="11,44 ,11 25kg (Nag)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Nagarjuna</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 2.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>Primary Batch</BATCHNAME>
+                        <OPENINGBALANCE> 2.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-6143.00</OPENINGVALUE>
+                        <OPENINGRATE>3071.50/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="117 Bg2 450*30" RESERVEDNAME="">
+                    <PARENT TYPE="String">Tulsi Seeds</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"> 1.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="12-11-18 Nisus-25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Shriram</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 14.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>Primary Batch</BATCHNAME>
+                        <OPENINGBALANCE> 6.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-8857.14</OPENINGVALUE>
+                        <OPENINGRATE>1476.19/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="12.61.00(Van)25kg" RESERVEDNAME="">
+                    <PARENT TYPE="String">Vanita</PARENT>
+                    <CLOSINGBALANCE TYPE="Quantity"></CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST></BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+                <STOCKITEM NAME="12.61.0 25kg (Coro)" RESERVEDNAME="">
+                    <PARENT TYPE="String">Coromandol SND</PARENT>
+                    <HASMFGDATE TYPE="Logical">No</HASMFGDATE>
+                    <CLOSINGBALANCE TYPE="Quantity"> 14.000 NOS</CLOSINGBALANCE>
+                    <BATCHALLOCATIONS.LIST>
+                        <MFDON/>
+                        <GODOWNNAME>Main Location</GODOWNNAME>
+                        <BATCHNAME>01</BATCHNAME>
+                        <OPENINGBALANCE> 5.000 NOS</OPENINGBALANCE>
+                        <OPENINGVALUE>-10713.75</OPENINGVALUE>
+                        <OPENINGRATE>2142.75/NOS</OPENINGRATE>
+                        <EXPIRYPERIOD/>
+                    </BATCHALLOCATIONS.LIST>
+                </STOCKITEM>
+            </COLLECTION>
+        </DATA>
+    </BODY>
+</ENVELOPE>
