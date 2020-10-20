@@ -39,7 +39,7 @@ class Home extends Component {
     if (body === "") {
       this.setState({ isAuthenticated: false });
     } else {
-      this.setState({ isAuthenticated: true, user: JSON.parse(body) });
+      this.setState({ isAuthenticated: true, user: JSON.parse(body)});
     }
   }
 
@@ -103,7 +103,7 @@ class Home extends Component {
   
     return (
       <div>
-        <AppNavbar />
+        <AppNavbar username={this.state.user}/>
          <Container>
           <Row>
             <Col xs={{ order: "last" }}></Col>

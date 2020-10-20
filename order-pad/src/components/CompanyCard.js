@@ -16,6 +16,7 @@ class CompanyCard extends Component {
         const {cookies} = props;
         this.state = {companies: [], csrfToken: cookies.get('XSRF-TOKEN'), isLoading: true};
         this.getProperDate = this.getProperDate.bind(this);
+        this.removeAll = this.removeAll.bind(this);
     }
 
     async componentDidMount() {
@@ -25,6 +26,20 @@ class CompanyCard extends Component {
             .then(response => response.json())
             .then(data => this.setState({companies: data, isLoading: false}))
             .catch(() => this.props.history.push('/'));
+    }
+
+    async removeAll() {
+        await fetch(`/sync/company`, {
+            method: 'DELETE',
+            headers: {
+                'X-XSRF-TOKEN': this.state.csrfToken,
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            credentials: 'include'
+        }).then(() => {
+            this.setState({companies: []});
+        });
     }
 
 
@@ -51,6 +66,7 @@ class CompanyCard extends Component {
                 <td>
                     <ButtonGroup>
                         <Button size="sm" color="primary" tag={Link} to={"companys/" + company.id}>Select Company</Button>{''}
+                        <Button size="sm" color="danger" onClick={() => this.removeAll()}>Delete All</Button>
                     </ButtonGroup>
                 </td>
             </tr>

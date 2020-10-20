@@ -41,7 +41,6 @@ const CashDiscount = (props) => {
                 <div className="form-group row">
                     <div className="offset-md-4">
                         <button type="submit"  className="btn btn-primary btn-lg"> Submit </button>
-
                     </div>
                 </div>
             </Form>

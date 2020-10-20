@@ -51,18 +51,18 @@ class OrderList extends Component {
         }
 
         const orderList = orders.map(order => {
-            const data = `${order.partyName || ''} ${order.product || ''} ${order.amount || ''}`;
             return <tr key={order.id}>
                 <td style={{whiteSpace: 'nowrap'}}>{order.orderNumber}</td>
                 <td style={{whiteSpace: 'nowrap'}}>{order.partyName}</td>
-                <td>{data}</td>
+                <td style={{whiteSpace: 'nowrap'}}>{order.item}</td>
                 <td style={{whiteSpace: 'nowrap'}}>{order.rate}</td>
                 <td style={{whiteSpace: 'nowrap'}}>{order.quantity}</td>
                 <td style={{whiteSpace: 'nowrap'}}>{order.comments}</td>
                 <td style={{whiteSpace: 'nowrap'}}>{order.date}</td>
+                <td style={{whiteSpace: 'nowrap'}}>{order.createdBy}</td>
                 <td>
                     <ButtonGroup>
-                        <Button size="sm" color="primary" tag={Link} to={"orders/" + order.id}>Edit</Button>{''}
+                        <Button size="sm" color="primary" tag={Link} to={"orders/" + order.id}>Edit</Button>{'  '}
                         <Button size="sm" color="danger" onClick={() => this.remove(order.id)}>Delete</Button>
                     </ButtonGroup>
                 </td>
@@ -86,7 +86,8 @@ class OrderList extends Component {
                             <th width="10%">Rate</th>
                             <th width="10%">Quantity/POS</th>
                             <th>Any Special Request</th>
-                            <th>Date \& Time</th>
+                            <th>Date & Time</th>
+                            <th>Created By</th>
                             <th width="10%">Actions</th>
                         </tr>
                         </thead>

@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import {Link, withRouter} from 'react-router-dom';
-import {Button, Container, Form, FormGroup, Input, Label, Row, Col,
-    ButtonGroup} from 'reactstrap';
+import {Button, Container, Form, FormGroup, Input, Label, Row, Col} from 'reactstrap';
 import AppNavbar from './AppNavBar';
 import {DropdownButton, Dropdown} from 'react-bootstrap';
 import {instanceOf} from 'prop-types';
 import {Cookies, withCookies} from 'react-cookie';
+import TextField from '@material-ui/core/TextField';
+import Autocomplete from '@material-ui/lab/Autocomplete';
 
 class OrderEdit extends Component {
 
@@ -16,25 +17,46 @@ class OrderEdit extends Component {
     emptyOrder = {
         orderNumber : '',
         partyName: '',
-        product: '',
+        item: '',
         rate: '',
         quantity: '',
         comments: '',
-        date:''
+        date:'',
+        createdBy:''
     };
+
+    partyList = [
+        { name: 'The Shawshank 1', id: 1994 }
+    ];
+
+        items = [
+            { name: 'Seeds', id: 1 },
+            { name: 'Pesticides', id: 2 },
+            { name: 'Green leaves', id: 3 },
+            { name: 'Agriculture Products', id: 4 }
+        ]
 
     constructor(props) {
         super(props);
         const {cookies} = props;
         this.state = {
             order: this.emptyOrder,
-            csrfToken: cookies.get('XSRF-TOKEN')
+            partyNames: this.partyList,
+            items: this.items,
+            csrfToken: cookies.get('XSRF-TOKEN'),
         };
         this.handleChange = this.handleChange.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
     }
 
     async componentDidMount() {
+        try {
+            const partyNames = await (await fetch(`/sync/ledger`, {credentials: 'include'})).json();
+            this.setState({partyNames:partyNames});
+        } catch (error) {
+            this.props.history.push('/');
+        }
+       
         if (this.props.match.params.id !== 'new') {
             try {
                 const order = await (await fetch(`/v1/api/order/${this.props.match.params.id}`, {credentials: 'include'})).json();
@@ -45,6 +67,8 @@ class OrderEdit extends Component {
 
         }
     }
+
+    
 
     handleChange(event) {
         const target = event.target;
@@ -72,10 +96,24 @@ class OrderEdit extends Component {
     }
 
     render() {
-        const {order} = this.state;
+        const {order,partyNames,items} = this.state;
         const title = <h2>{order.id ? 'Edit Order' : 'Created Sales Order'}</h2>;
+        
+        const defaultPropsPartyName = {
+            options: partyNames,
+            getOptionLabel: (option) => option.name,
+            value: {name: order.partyName}
+          };
 
-        return <div>
+          const defaultPropsItems= {
+            options: items,
+            getOptionLabel: (option) => option.name,
+            value: {name: order.item}
+          };
+        
+        
+        return (
+            <div>
             <AppNavbar/>
             <Container>
                 <Form onSubmit={this.handleSubmit}>
@@ -84,9 +122,9 @@ class OrderEdit extends Component {
                             {title}
                         </Col>
                         <Col>
-                        <Button color="primary" tag={Link} to="/order/new" size="lg">Save & Add Another</Button>{' '}
-                            <Button color="primary" type="submit" size="lg">Save</Button>{' '}
-                            <Button color="secondary" tag={Link} to="/orders" size="lg">Close</Button>
+                        {/* <Button color="primary" onClick={this.saveAndNew()} size="lg">Save & Add Another</Button>{' '} */}
+                        <Button color="primary" type="submit" size="lg">Save</Button>{' '}
+                        <Button color="secondary" tag={Link} to="/orders" size="lg">Close</Button>
                             <br/>
                         </Col>
                     </Row>
@@ -111,7 +149,7 @@ class OrderEdit extends Component {
                         <Col md={4}>
                             <FormGroup>
                                 <Label for="createdBy">Created By</Label>
-                                <Input type="text" name="createdBy" id="createdBy" value={order.date || ''}
+                                <Input type="text" name="createdBy" id="createdBy" value={order.createdBy || ''}
                                     onChange={this.handleChange} autoComplete="createdBy-level1"/>
                             </FormGroup>
                         </Col>
@@ -122,14 +160,16 @@ class OrderEdit extends Component {
                             <FormGroup>
                             <Label for="sortBy">Sort By</Label>
                             <Input type="dropdown" name="sortBy" id="sortBy" value={order.sortBy || ''}
-                                onChange={this.handleChange} autoComplete="product-level1"/>
+                                onChange={this.handleChange}/>
                             </FormGroup>
                         </Col>
                         <Col>
                             <FormGroup>
-                            <Label for="partyName">Party Name</Label>
-                            <Input type="text" name="partyName" id="partyName" value={order.partyName || ''}
-                                onChange={this.handleChange}/>
+                            <Autocomplete
+                                {...defaultPropsPartyName}
+                                renderInput={(params) => <TextField onSelect={this.handleChange} name="partyName" id="partyName" value={order.partyName || ''}
+                                {...params} label="Party" margin="normal" />}
+                            />
                             </FormGroup>
                         </Col>
                     </Row>
@@ -137,9 +177,11 @@ class OrderEdit extends Component {
                     <Row form>
                         <Col>
                             <FormGroup>
-                            <Label for="item">Item name</Label>
-                            <Input type="text" name="item" id="item" value={order.item || ''}
-                                onChange={this.handleChange} autoComplete="item-level1"/>
+                            <Autocomplete
+                                {...defaultPropsItems}
+                                renderInput={(params) => <TextField onSelect={this.handleChange}  name="item" id="item" value={order.item || ''}
+                                {...params} label="Item Name" margin="normal" />}
+                            />
                             </FormGroup>
                         </Col>
                         <Col>
@@ -152,11 +194,7 @@ class OrderEdit extends Component {
                         <Col>
                             <FormGroup>
                                 <Label for="unit">Unit</Label>
-                                <DropdownButton id="unit"  name="unit" value={order.unit || ''} title={order.unit} onChange={this.handleChange}>
-                                    <Dropdown.Item >Boxes</Dropdown.Item>
-                                    <Dropdown.Item >Packets</Dropdown.Item>
-                                    <Dropdown.Item >Crates</Dropdown.Item>
-                                </DropdownButton>
+                                <Input type="number" id="unit"  name="unit" value={order.unit || ''} title={order.unit} onChange={this.handleChange}/>
                             </FormGroup>
                         </Col>
                         <Col>
@@ -176,6 +214,7 @@ class OrderEdit extends Component {
                 </Form>
             </Container>
         </div>
+        )
     }
 }
 
